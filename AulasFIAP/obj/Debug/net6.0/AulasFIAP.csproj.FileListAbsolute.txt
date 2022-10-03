@@ -1,0 +1,15 @@
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\bin\Debug\net6.0\AulasFIAP.exe
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\bin\Debug\net6.0\AulasFIAP.deps.json
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\bin\Debug\net6.0\AulasFIAP.runtimeconfig.json
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\bin\Debug\net6.0\AulasFIAP.dll
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\bin\Debug\net6.0\AulasFIAP.pdb
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.csproj.AssemblyReference.cache
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.AssemblyInfoInputs.cache
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.AssemblyInfo.cs
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.csproj.CoreCompileInputs.cache
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.dll
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\refint\AulasFIAP.dll
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.pdb
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\AulasFIAP.genruntimeconfig.cache
+C:\Users\106125\Desktop\sequoia\cursos\FIAP\.NET\AulasFIAP\AulasFIAP\obj\Debug\net6.0\ref\AulasFIAP.dll
